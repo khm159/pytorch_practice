@@ -1,5 +1,3 @@
-# pytorch_practice
-
 Pytorch 라이브러리 학습
 =====================
 
